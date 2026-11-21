@@ -1,0 +1,8 @@
+{
+  "name": "ChickCheck",
+  "description": "Searchable backyard chicken food safety guide with safety verdicts, preparation instructions, and nutritional values.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
